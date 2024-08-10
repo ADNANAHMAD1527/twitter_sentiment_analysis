@@ -1,4 +1,4 @@
-#Twitter Sentiment Analysis
+**Twitter Sentiment Analysis**
 
 In this mini project, I used Google Colab to analyze tweet sentiments, exploring key machine learning and data science concepts. The project involved importing libraries, cleaning the tweet data, and applying stemming to standardize the text. I used TF-IDF to convert the text into numerical features for model training.
 
